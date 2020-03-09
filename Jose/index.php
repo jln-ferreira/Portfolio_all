@@ -109,23 +109,24 @@
       </div>
     </section>
 
+    <!-- all PROGRAMS -->
     <section class="ftco-section ftco-partner">
       <div class="container">
         <div class="row">
           <div class="col-sm ftco-animate">
-            <a href="#" class="partner"><img src="images/partner-1.png" class="img-fluid"></a>
+            <a class="partner"><img src="images/partner-1.png" class="img-fluid"></a>
           </div>
           <div class="col-sm ftco-animate">
-            <a href="#" class="partner"><img src="images/partner-2.png" class="img-fluid"></a>
+            <a class="partner"><img src="images/partner-2.png" class="img-fluid"></a>
           </div>
           <div class="col-sm ftco-animate">
-            <a href="#" class="partner"><img src="images/partner-3.png" class="img-fluid"></a>
+            <a class="partner"><img src="images/partner-3.png" class="img-fluid"></a>
           </div>
           <div class="col-sm ftco-animate">
-            <a href="#" class="partner"><img src="images/partner-4.png" class="img-fluid"></a>
+            <a class="partner"><img style="width: 120px;" src="images/partner-4.jpg" class="img-fluid"></a>
           </div>
           <div class="col-sm ftco-animate">
-            <a href="#" class="partner"><img src="images/partner-5.png" class="img-fluid"></a>
+            <a class="partner"><img style="width: 110px;" src="images/partner-5.png" class="img-fluid"></a>
           </div>
         </div>
       </div>
@@ -154,7 +155,7 @@
                 </div>
                 <div class="text pl-3">
                   <span class="date">2019-2020</span>
-                  <h2>Diploma General Programming</h2>
+                  <h2>Diploma - General Programming</h2>
                   <span class="position">Institute of Technology Development of Canada</span>
                   <p>General programming concluded. More than 960 hours dedicated to refine the ability of programming in several languages.</p>
                   <p><b>HTML, CSS, Javascript, SQL, PHP, ASP.net, React, C, C++, C#, JAVA</b></p>
@@ -214,54 +215,16 @@
                   <span class="flaticon-ideas"></span>
                 </div>
                 <div class="text pl-3">
-                  <span class="date">2014-2015</span>
+                  <span class="date">2019-2020</span>
                   <h2>Software Developer</h2>
-                  <span class="position">Cambridge University</span>
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                </div>
-              </div>
-              <div class="resume-wrap d-flex ftco-animate">
-                <div class="icon d-flex align-items-center justify-content-center">
-                  <span class="flaticon-ideas"></span>
-                </div>
-                <div class="text pl-3">
-                  <span class="date">2014-2015</span>
-                  <h2>Web Designer</h2>
-                  <span class="position">Cambridge University</span>
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                </div>
-              </div>
-              <div class="resume-wrap d-flex ftco-animate">
-                <div class="icon d-flex align-items-center justify-content-center">
-                  <span class="flaticon-ideas"></span>
-                </div>
-                <div class="text pl-3">
-                  <span class="date">2014-2015</span>
-                  <h2>Web Marketing</h2>
-                  <span class="position">Cambridge University</span>
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                </div>
-              </div>
-              <div class="resume-wrap d-flex ftco-animate">
-                <div class="icon d-flex align-items-center justify-content-center">
-                  <span class="flaticon-ideas"></span>
-                </div>
-                <div class="text pl-3">
-                  <span class="date">2014-2015</span>
-                  <h2>Art &amp; Creative Director</h2>
-                  <span class="position">Side Tech</span>
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                </div>
-              </div>
-              <div class="resume-wrap d-flex ftco-animate">
-                <div class="icon d-flex align-items-center justify-content-center">
-                  <span class="flaticon-ideas"></span>
-                </div>
-                <div class="text pl-3">
-                  <span class="date">2014-2015</span>
-                  <h2>Wordpress Developer</h2>
-                  <span class="position">Cambridge University</span>
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                  <span class="position">Emdev Co.</span>
+                  <p>
+                    Enterprise application software created from scratch, built to run a Brazilian senior house;<br>
+                    Each member has his own access, friendly and easy interface to deal daily tasks;<br>
+                    Team leader, delivering tasks to others developers.<br>
+                    <b>HTML, CSS, Bootstrap, JavaScript, JSON, Ajax, JQuery, PHP, MySQL.</b>
+                  </p>
+                  <small>https://github.com/jln-ferreira/SmallCompanyPHP</small>
                 </div>
               </div>
               <div class="resume-wrap d-flex ftco-animate">
@@ -270,21 +233,42 @@
                 </div>
                 <div class="text pl-3">
                   <span class="date">2017-2018</span>
-                  <h2>UI/UX Designer</h2>
-                  <span class="position">Cambridge University</span>
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                  <h2>Productivity Management</h2>
+                  <span class="position">Walmart Brazil</span>
+                  <p>
+                  Developing fully-managed Data Warehouse KPI`s using Queries within Business Tools to increase the decision accuracy of the Supply Chain area. Project results:<br>
+                  <b>
+                    Forecast accuracy (14% to 55%);<br>
+                    Days on hand (14 days to 9 days);<br>
+                    increased accuracy days of supply.</b>
+                </p>
+                </div>
+              </div>
+              <div class="resume-wrap d-flex ftco-animate">
+                <div class="icon d-flex align-items-center justify-content-center">
+                  <span class="flaticon-ideas"></span>
+                </div>
+                <div class="text pl-3">
+                  <span class="date">2015-2017</span>
+                  <h2>Productivity Manager</h2>
+                  <span class="position">DASA</span>
+                  <p>
+                  Responsible for development, implementation and maintenance of the SAP system;<br>
+                  Mapped the AS-IS and TO-BE process. Implemented several quality tools (6Sigma, LEAN tool, Just-in-time and Kanban) to reduce costs, operational errors and increased productivity. Leading to a gain of <b>BRL 7,000,000 at 2015.</b>
+                </p>
                 </div>
               </div>
             </div><!-- ================----------END OF EXPERIENCE----------================ -->
+            <!-- ================----------SKILLS----------================ -->
             <div id="page-3" class= "page three">
               <h2 class="heading">Skills</h2>
               <div class="row progress-circle mb-5">
+
+                <!-- Progress bar 1 -->
                 <div class="col-lg-4 mb-4">
                   <div class="bg-white rounded-lg shadow p-4">
-                    <h2 class="h5 font-weight-bold text-center mb-4">CSS</h2>
-
-                    <!-- Progress bar 1 -->
-                    <div class="progress mx-auto" data-value='90'>
+                    <h2 class="h5 font-weight-bold text-center mb-4">Kotlin</h2>
+                    <div class="progress mx-auto" data-value='67'>
                       <span class="progress-left">
                         <span class="progress-bar border-primary"></span>
                       </span>
@@ -292,30 +276,26 @@
                         <span class="progress-bar border-primary"></span>
                       </span>
                       <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
-                        <div class="h2 font-weight-bold">90<sup class="small">%</sup></div>
+                        <div class="h2 font-weight-bold">67<sup class="small">%</sup></div>
                       </div>
                     </div>
-                    <!-- END -->
-
-                    <!-- Demo info -->
                     <div class="row text-center mt-4">
                       <div class="col-6 border-right">
-                        <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
+                        <div class="h4 font-weight-bold mb-0">63%</div><span class="small text-gray">Last week</span>
                       </div>
                       <div class="col-6">
-                        <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
+                        <div class="h4 font-weight-bold mb-0">0%</div><span class="small text-gray">Last month</span>
                       </div>
                     </div>
-                    <!-- END -->
+                    <!-- END PROGRESS 1 -->
                   </div>
                 </div>
 
+                <!-- Progress bar 2 -->
                 <div class="col-lg-4 mb-4">
                   <div class="bg-white rounded-lg shadow p-4">
-                    <h2 class="h5 font-weight-bold text-center mb-4">HTML</h2>
-
-                    <!-- Progress bar 1 -->
-                    <div class="progress mx-auto" data-value='80'>
+                    <h2 class="h5 font-weight-bold text-center mb-4">PHP</h2>
+                    <div class="progress mx-auto" data-value='93'>
                       <span class="progress-left">
                         <span class="progress-bar border-primary"></span>
                       </span>
@@ -323,12 +303,9 @@
                         <span class="progress-bar border-primary"></span>
                       </span>
                       <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
-                        <div class="h2 font-weight-bold">80<sup class="small">%</sup></div>
+                        <div class="h2 font-weight-bold">93<sup class="small">%</sup></div>
                       </div>
                     </div>
-                    <!-- END -->
-
-                    <!-- Demo info -->
                     <div class="row text-center mt-4">
                       <div class="col-6 border-right">
                         <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
@@ -337,16 +314,15 @@
                         <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
                       </div>
                     </div>
-                    <!-- END -->
+                    <!-- END PROGRESS 2 -->
                   </div>
                 </div>
 
+                <!-- Progress bar 3 -->
                 <div class="col-lg-4 mb-4">
                   <div class="bg-white rounded-lg shadow p-4">
-                    <h2 class="h5 font-weight-bold text-center mb-4">jQuery</h2>
-
-                    <!-- Progress bar 1 -->
-                    <div class="progress mx-auto" data-value='75'>
+                    <h2 class="h5 font-weight-bold text-center mb-4">JavaScript</h2>
+                    <div class="progress mx-auto" data-value='83'>
                       <span class="progress-left">
                         <span class="progress-bar border-primary"></span>
                       </span>
@@ -354,12 +330,9 @@
                         <span class="progress-bar border-primary"></span>
                       </span>
                       <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
-                        <div class="h2 font-weight-bold">75<sup class="small">%</sup></div>
+                        <div class="h2 font-weight-bold">83<sup class="small">%</sup></div>
                       </div>
                     </div>
-                    <!-- END -->
-
-                    <!-- Demo info -->
                     <div class="row text-center mt-4">
                       <div class="col-6 border-right">
                         <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
@@ -368,51 +341,51 @@
                         <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
                       </div>
                     </div>
-                    <!-- END -->
+                    <!-- END PROGRESS 3 -->
                   </div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-6 animate-box">
                   <div class="progress-wrap ftco-animate">
-                    <h3>Photoshop</h3>
+                    <h3>C++</h3>
                     <div class="progress">
-                      <div class="progress-bar color-1" role="progressbar" aria-valuenow="90"
-                        aria-valuemin="0" aria-valuemax="100" style="width:90%">
-                        <span>90%</span>
+                      <div class="progress-bar color-1" role="progressbar" aria-valuenow="64"
+                        aria-valuemin="0" aria-valuemax="100" style="width:64%">
+                        <span>64%</span>
                         </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-md-6 animate-box">
                   <div class="progress-wrap ftco-animate">
-                    <h3>jQuery</h3>
+                    <h3>C#</h3>
                     <div class="progress">
-                      <div class="progress-bar color-2" role="progressbar" aria-valuenow="85"
-                        aria-valuemin="0" aria-valuemax="100" style="width:85%">
-                        <span>85%</span>
+                      <div class="progress-bar color-2" role="progressbar" aria-valuenow="73"
+                        aria-valuemin="0" aria-valuemax="100" style="width:73%">
+                        <span>73%</span>
                         </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-md-6 animate-box">
                   <div class="progress-wrap ftco-animate">
-                    <h3>HTML5</h3>
+                    <h3>Java</h3>
                     <div class="progress">
-                      <div class="progress-bar color-3" role="progressbar" aria-valuenow="95"
-                        aria-valuemin="0" aria-valuemax="100" style="width:95%">
-                        <span>95%</span>
+                      <div class="progress-bar color-3" role="progressbar" aria-valuenow="88"
+                        aria-valuemin="0" aria-valuemax="100" style="width:88%">
+                        <span>88%</span>
                         </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-md-6 animate-box">
                   <div class="progress-wrap ftco-animate">
-                    <h3>CSS3</h3>
+                    <h3>Visual Basic</h3>
                     <div class="progress">
-                      <div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
-                        aria-valuemin="0" aria-valuemax="100" style="width:90%">
-                        <span>90%</span>
+                      <div class="progress-bar color-4" role="progressbar" aria-valuenow="84"
+                        aria-valuemin="0" aria-valuemax="100" style="width:84%">
+                        <span>84%</span>
                         </div>
                     </div>
                   </div>
@@ -769,53 +742,6 @@
             <h1 class="big big-2">Contact</h1>
             <h2 class="mb-4">Contact Me</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-          </div>
-        </div>
-
-        <div class="row d-flex contact-info mb-5">
-          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
-            <div class="align-self-stretch box text-center p-4 shadow">
-              <div class="icon d-flex align-items-center justify-content-center">
-                <span class="icon-map-signs"></span>
-              </div>
-              <div>
-                <h3 class="mb-4">Address</h3>
-                <p>198 West 21th Street, Suite 721 New York NY 10016</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
-            <div class="align-self-stretch box text-center p-4 shadow">
-              <div class="icon d-flex align-items-center justify-content-center">
-                <span class="icon-phone2"></span>
-              </div>
-              <div>
-                <h3 class="mb-4">Contact Number</h3>
-                <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
-            <div class="align-self-stretch box text-center p-4 shadow">
-              <div class="icon d-flex align-items-center justify-content-center">
-                <span class="icon-paper-plane"></span>
-              </div>
-              <div>
-                <h3 class="mb-4">Email Address</h3>
-                <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
-            <div class="align-self-stretch box text-center p-4 shadow">
-              <div class="icon d-flex align-items-center justify-content-center">
-                <span class="icon-globe"></span>
-              </div>
-              <div>
-                <h3 class="mb-4">Website</h3>
-                <p><a href="#">yoursite.com</a></p>
-              </div>
-            </div>
           </div>
         </div>
 
