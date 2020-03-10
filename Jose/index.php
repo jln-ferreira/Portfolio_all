@@ -394,9 +394,9 @@
                   <div class="progress-wrap ftco-animate">
                     <h3>JQuery & Json</h3>
                     <div class="progress">
-                      <div class="progress-bar color-5" role="progressbar" aria-valuenow="84"
-                        aria-valuemin="0" aria-valuemax="100" style="width:84%">
-                        <span>84%</span>
+                      <div class="progress-bar color-5" role="progressbar" aria-valuenow="87"
+                        aria-valuemin="0" aria-valuemax="100" style="width:87%">
+                        <span>87%</span>
                         </div>
                     </div>
                   </div>
@@ -435,8 +435,8 @@
                 <i class="flaticon-analysis"></i>
               </span>
               <div class="desc">
-                <h3 class="mb-5">Web Design</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <h3 class="mb-5">Process Mapping</h3>
+                <p>Draw As-Is of the current process to identify failures, repetitions, bottlenecks and unnecessary Handoffs.</p>
               </div>
             </a>
           </div>
@@ -446,8 +446,8 @@
                 <i class="flaticon-flasks"></i>
               </span>
               <div class="desc">
-                <h3 class="mb-5">Phtography</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <h3 class="mb-5">Game Developer</h3>
+                <p>Gamer since ever! Develop games with passion with expertise.</p>
               </div>
             </a>
           </div>
