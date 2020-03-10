@@ -7,6 +7,7 @@ $(document).ready(function(){
         //get input field values
         var user_name = $('input[name=name]').val();
         var user_email = $('input[name=email]').val();
+        var user_subject = $('input[name=subject]').val();
         var user_message = $('textarea[name=message]').val();
         
         //simple validation at client's end
@@ -18,6 +19,10 @@ $(document).ready(function(){
         }
         if (user_email == "") {
             $('input[name=email]').css('border-color', '#e41919');
+            proceed = false;
+        }
+        if (user_subject == "") {
+            $('input[name=subject]').css('border-color', '#e41919');
             proceed = false;
         }
         
@@ -32,6 +37,7 @@ $(document).ready(function(){
             post_data = {
                 'userName': user_name,
                 'userEmail': user_email,
+                'userSubject': user_subject,
                 'userMessage': user_message
             };
             
@@ -47,8 +53,8 @@ $(document).ready(function(){
                     output = '<div class="success">' + response.text + '</div>';
                     
                     //reset values in all input fields
-                    $('#contact_form input').val('');
-                    $('#contact_form textarea').val('');
+                    $('#contact-form input').val('');
+                    $('#contact-form textarea').val('');
                 }
                 
                 $("#result").hide().html(output).slideDown();

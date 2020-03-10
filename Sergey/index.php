@@ -38,11 +38,11 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
               <ul class="nav navbar-nav menu_nav ml-auto">
-                <li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li> 
-                <li class="nav-item"><a class="nav-link" href="about-us.html">About</a></li> 
-                <li class="nav-item"><a class="nav-link" href="services.html">Services</a>
-                <li class="nav-item"><a class="nav-link" href="services.html">Projects</a>
-                <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                <li class="nav-item active"><a class="nav-link" href="#home">Home</a></li> 
+                <li class="nav-item"><a class="nav-link" href="#about">About</a></li> 
+                <li class="nav-item"><a class="nav-link" href="#feature">Services</a>
+                <li class="nav-item"><a class="nav-link" href="#projects">Projects</a>
+                <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
               </ul>
             </div> 
           </div>
@@ -62,7 +62,7 @@
               </div>
             </div>
             <div class="col-lg-6">
-              <div class="banner_content">
+              <div class="banner_content" id="home">
                 <h5>This is me</h5>
                 <h2>S. Holson</h2>
                 <p>Highly skilled Construction Site Supervisor, General Contractor and Project Manager with over 25 years of experience.</p>
@@ -75,11 +75,11 @@
         <!--================End Home Banner Area =================-->
         
         <!--================Welcome Area =================-->
-        <section class="welcome_area p_120">
+        <section class="welcome_area p_120" id="about">
           <div class="container">
             <div class="row welcome_inner">
               <div class="col-lg-6">
-                <div class="welcome_text">
+                <div class="welcome_text" >
                   <h4>About Myself</h4>
                   <p>Licensed builder, Project Manager. <br> Always ready to help you built your dreamy home with high quality service and reasonable price.</p>
                   <div class="row">
@@ -129,9 +129,9 @@
         <!--================End Welcome Area =================-->
         
         <!--================Feature Area =================-->
-        <section class="feature_area p_120">
+        <section class="feature_area p_120" id="feature">
           <div class="container">
-            <div class="main_title">
+            <div class="main_title" >
               <h2>offerings to my clients</h2>
               <p>From stage of design:</p>
               <p>Choosing architecture designers company;</p>
@@ -178,9 +178,9 @@
         <!--================End Feature Area =================-->
         
         <!--================Projects Area =================-->
-        <section class="projects_area p_120">
+        <section class="projects_area p_120" id="projects">
           <div class="container">
-            <div class="main_title">
+            <div class="main_title" >
           <h2>Recent Completed Projects</h2>
         </div>
         <div class="projects_inner row">
@@ -383,7 +383,7 @@
 
           <div class="container">
 
-      <section id="contact" class="home-section text-center">
+      <section id="contact" class="home-section text-center" id="contact">
         <div class="heading-contact">
           <div class="container">
             <div class="row">
@@ -391,7 +391,7 @@
               <div  class="col-lg-6 col-md-offset-2">
 
                 <div class="section-heading">
-                  <div class="wow bounceInDown" data-wow-delay="0.4s">
+                  <div class="wow bounceInDown" data-wow-delay="0.4s" >
                     <h2>Email or phone are welcome</h2>
                   </div>
                   <p class="wow lightSpeedIn" data-wow-delay="0.3s">Gentleman, introduce your self and get in touch with me privately</p>
@@ -407,7 +407,7 @@
             <div  class="col-lg-3"></div>
             <div class="col-lg-6 col-md-offset-2">
               <div class="form-wrapper marginbot-50">
-                <div style="display: none;" id="sendmessage">Your message has been sent. Thank you!</div>
+                <div id="result"></div>
                 <div id="errormessage"></div>
                 <form id="contact-form" method="post" role="form" class="contactForm">
                   <div class="form-group">
@@ -427,7 +427,7 @@
                     <div class="validation"></div>
                   </div>
 
-                  <div class="text-center"><button type="submit" class="btn btn-skin btn-block" id="btnContactUs">Send Message</button></div>
+                  <div class="text-center"><button class="btn btn-skin btn-block" id="submit_btn">Submit Message</button></div>
                 </form>
               </div>
               <div class="text-center">
@@ -456,6 +456,7 @@
         
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
         <script src="js/jquery-3.2.1.min.js"></script>
         <script src="js/popper.js"></script>
         <script src="js/bootstrap.min.js"></script>
@@ -469,27 +470,30 @@
         <script src="vendors/counter-up/jquery.waypoints.min.js"></script>
         <script src="vendors/counter-up/jquery.counterup.min.js"></script>
         <script src="js/mail-script.js"></script>
+        <!-- contact -->
+        <script src="js/contact-form.js"></script>
         <!--gmaps Js-->
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
         <script src="js/gmaps.min.js"></script>
         <script src="js/theme.js"></script>
+
     </body>
 </html>
 
 
-<?php
+<!-- <?php
 
-if(isset($_POST)){
+// if(isset($_POST)){
 
-  $to      = 'jln-ferreira@hotmail.com';
-  $subject = $_POST['subject'] . "from - " . $_POST['name'];
-  $message = $_POST['message'];
-  $headers = 'From: ' . $_POST['email'] . "\r\n" .
-      'Reply-To:' . $_POST['email'] . "\r\n" .
-      'X-Mailer : PHP/' . phpversion();
+//   $to      = 'jln-ferreira@hotmail.com';
+//   $subject = $_POST['subject'] . "from - " . $_POST['name'];
+//   $message = $_POST['message'];
+//   $headers = 'From: ' . $_POST['email'] . "\r\n" .
+//       'Reply-To:' . $_POST['email'] . "\r\n" .
+//       'X-Mailer : PHP/' . phpversion();
 
-  mail($to, $subject, $message, $headers);
+//   mail($to, $subject, $message, $headers);
 
-}
+// }
 
-?> 
+// ?> --> 

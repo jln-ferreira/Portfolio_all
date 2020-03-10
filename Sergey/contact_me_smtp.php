@@ -1,14 +1,12 @@
 <?php
 if($_POST)
 {
-    $to_Email       = "jln-ferreira@outlook.com"; // Replace with recipient email address
-	$subject        = 'Message from website '.$_SERVER['SERVER_NAME']; //Subject line for emails
-    
-    $host           = "smtp-mail.outlook.com"; // Your SMTP server. For example, smtp.mail.yahoo.com
-    $username       = "jln-ferreira@outlook.com"; //For example, your.email@yahoo.com
+    $to_Email       = "jln-ferreira@hotmail.com"; // Replace with recipient email address
+    $host           = "smtp.live.com"; // Your SMTP server. For example, smtp.mail.yahoo.com
+    $username       = "jln-ferreira@hotmail.com"; //For example, your.email@yahoo.com
     $password       = "Walmart*2017"; // Your password
-    $SMTPSecure     = "ssl"; // For example, ssl
-    $port           = 465; // For example, 465
+    $SMTPSecure     = "tls"; // For example, ssl
+    $port           = 587; // For example, 465
     
     
     //check if its an ajax request, exit if not
@@ -34,7 +32,7 @@ if($_POST)
     //Sanitize input data using PHP filter_var().
     $user_Name        = filter_var($_POST["userName"], FILTER_SANITIZE_STRING);
     $user_Email       = filter_var($_POST["userEmail"], FILTER_SANITIZE_EMAIL);
-    $user_Subject       = filter_var($_POST["userSubject"], FILTER_SANITIZE_EMAIL);
+    $subject       = filter_var($_POST["userSubject"], FILTER_SANITIZE_EMAIL);
     $user_Message     = filter_var($_POST["userMessage"], FILTER_SANITIZE_STRING);
     
     $user_Message = str_replace("\&#39;", "'", $user_Message);

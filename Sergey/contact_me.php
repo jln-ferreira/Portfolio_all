@@ -1,8 +1,10 @@
+<?php include('contact_me_smtp.php');?>
+
 <?php
 if($_POST)
 {
-	$to_Email   	= "jln-ferreira@outlook.com"; //Replace with recipient email address
-	$subject        = 'Message from website '.$_SERVER['SERVER_NAME']; //Subject line for emails
+	$to_Email   	= "jln-ferreira@hotmail.com"; //Replace with recipient email address
+	
 	
 	
 	//check if its an ajax request, exit if not
@@ -29,14 +31,13 @@ if($_POST)
 	$user_Name        = filter_var($_POST["userName"], FILTER_SANITIZE_STRING);
 	$user_Email       = filter_var($_POST["userEmail"], FILTER_SANITIZE_EMAIL);
 	$user_Message     = filter_var($_POST["userMessage"], FILTER_SANITIZE_STRING);
-	$user_Subject     = filter_var($_POST["userSubject"]),FILTER_SANITIZE_STRING);
+	$user_Subject     = filter_var($_POST["userSubject"], FILTER_SANITIZE_STRING);
 	$user_Message = str_replace("\&#39;", "'", $user_Message);
-	$user_Message = str_replace("&#39;", "'", $user_Message);
 	
 	if ($user_Subject == "") {
 	$subject        = 'Message from website '.$_SERVER['SERVER_NAME']; //Subject line for emails
 	}else{
-		$subject = $user_Subject
+		$subject = $user_Subject;
 	}
 	//additional php validation
 	if(strlen($user_Name)<4) // If length is less than 4 it will throw an HTTP error.

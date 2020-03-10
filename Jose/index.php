@@ -141,7 +141,6 @@
                 <li><a href="#page-1">Education</a></li>
                 <li><a href="#page-2">Experience</a></li>
                 <li><a href="#page-3">Skills</a></li>
-                <li><a href="#page-4">Awards</a></li>
               </ul>
             </nav>
           </div>
@@ -308,10 +307,10 @@
                     </div>
                     <div class="row text-center mt-4">
                       <div class="col-6 border-right">
-                        <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
+                        <div class="h4 font-weight-bold mb-0">91%</div><span class="small text-gray">Last week</span>
                       </div>
                       <div class="col-6">
-                        <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
+                        <div class="h4 font-weight-bold mb-0">88%</div><span class="small text-gray">Last month</span>
                       </div>
                     </div>
                     <!-- END PROGRESS 2 -->
@@ -335,16 +334,17 @@
                     </div>
                     <div class="row text-center mt-4">
                       <div class="col-6 border-right">
-                        <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
+                        <div class="h4 font-weight-bold mb-0">80%</div><span class="small text-gray">Last week</span>
                       </div>
                       <div class="col-6">
-                        <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
+                        <div class="h4 font-weight-bold mb-0">78%</div><span class="small text-gray">Last month</span>
                       </div>
                     </div>
                     <!-- END PROGRESS 3 -->
                   </div>
                 </div>
               </div>
+              <!-- SKILLS PROGRAMMING LG -->
               <div class="row">
                 <div class="col-md-6 animate-box">
                   <div class="progress-wrap ftco-animate">
@@ -381,9 +381,20 @@
                 </div>
                 <div class="col-md-6 animate-box">
                   <div class="progress-wrap ftco-animate">
-                    <h3>Visual Basic</h3>
+                    <h3>MySQL</h3>
                     <div class="progress">
-                      <div class="progress-bar color-4" role="progressbar" aria-valuenow="84"
+                      <div class="progress-bar color-4" role="progressbar" aria-valuenow="85"
+                        aria-valuemin="0" aria-valuemax="100" style="width:85%">
+                        <span>85%</span>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 animate-box">
+                  <div class="progress-wrap ftco-animate">
+                    <h3>JQuery & Json</h3>
+                    <div class="progress">
+                      <div class="progress-bar color-5" role="progressbar" aria-valuenow="84"
                         aria-valuemin="0" aria-valuemax="100" style="width:84%">
                         <span>84%</span>
                         </div>
@@ -392,87 +403,29 @@
                 </div>
                 <div class="col-md-6 animate-box">
                   <div class="progress-wrap ftco-animate">
-                    <h3>WordPress</h3>
+                    <h3>MS Excel</h3>
                     <div class="progress">
-                      <div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
-                        aria-valuemin="0" aria-valuemax="100" style="width:70%">
-                        <span>70%</span>
-                        </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-6 animate-box">
-                  <div class="progress-wrap ftco-animate">
-                    <h3>SEO</h3>
-                    <div class="progress">
-                      <div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
-                        aria-valuemin="0" aria-valuemax="100" style="width:80%">
-                        <span>80%</span>
+                      <div class="progress-bar color-6" role="progressbar" aria-valuenow="99"
+                        aria-valuemin="0" aria-valuemax="100" style="width:99%">
+                        <span>99%</span>
                         </div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div id="page-4" class= "page four">
-              <h2 class="heading">Awards</h2>
-              <div class="resume-wrap d-flex ftco-animate">
-                <div class="icon d-flex align-items-center justify-content-center">
-                  <span class="flaticon-ideas"></span>
-                </div>
-                <div class="text pl-3">
-                  <span class="date">2014-2015</span>
-                  <h2>Top 10 Web Developer</h2>
-                  <span class="position">Cambridge University</span>
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                </div>
-              </div>
-              <div class="resume-wrap d-flex ftco-animate">
-                <div class="icon d-flex align-items-center justify-content-center">
-                  <span class="flaticon-ideas"></span>
-                </div>
-                <div class="text pl-3">
-                  <span class="date">2014-2015</span>
-                  <h2>Top 5 LeaderShip Exellence Winner</h2>
-                  <span class="position">Cambridge University</span>
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                </div>
-              </div>
-              <div class="resume-wrap d-flex ftco-animate">
-                <div class="icon d-flex align-items-center justify-content-center">
-                  <span class="flaticon-ideas"></span>
-                </div>
-                <div class="text pl-3">
-                  <span class="date">2014-2015</span>
-                  <h2>Top 4 Web Tester</h2>
-                  <span class="position">Cambridge University</span>
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                </div>
-              </div>
-              <div class="resume-wrap d-flex ftco-animate">
-                <div class="icon d-flex align-items-center justify-content-center">
-                  <span class="flaticon-ideas"></span>
-                </div>
-                <div class="text pl-3">
-                  <span class="date">2014-2015</span>
-                  <h2>Art &amp; Creative Director</h2>
-                  <span class="position">Cambridge University</span>
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+            <!-- END SKILLS PROGRAMMING LG -->
       </div>
     </section>
 
+    <!-- SERVICE CONTAINER -->
     <section class="ftco-section" id="services-section">
       <div class="container-fluid px-md-5">
         <div class="row justify-content-center py-5 mt-5">
           <div class="col-md-12 heading-section text-center ftco-animate">
             <h1 class="big big-2">Services</h1>
             <h2 class="mb-4">Services</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <p>Not Your Average Software Engineer</p>
           </div>
         </div>
         <div class="row">
