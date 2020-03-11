@@ -458,7 +458,7 @@
               </span>
               <div class="desc">
                 <h3 class="mb-5">Web Developer</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <p>Good User Interface with a <b>outstanding</b> Back-end to make it not only beautiful, but useful Web page.</p>
               </div>
             </a>
           </div>
@@ -470,7 +470,7 @@
               </span>
               <div class="desc">
                 <h3 class="mb-5">App Developing</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <p>Have ideas for App? I can create it using <b>Android Studio & Kotlin</b>, the newest technology to make your dream come true.</p>
               </div>
             </a>
           </div>
@@ -480,8 +480,8 @@
                 <i class="flaticon-ux-design"></i>
               </span>
               <div class="desc">
-                <h3 class="mb-5">Branding</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <h3 class="mb-5">Supply Chain management</h3>
+                <p>Having problems with Day on Hand, Days of Supply, Forecast and others KPI`s? With my <b>8+years of experience</b> I can make it right!</p>
               </div>
             </a>
           </div>
@@ -491,8 +491,11 @@
                 <i class="flaticon-idea"></i>
               </span>
               <div class="desc">
-                <h3 class="mb-5">Product Strategy</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <h3 class="mb-5">System Convertion</h3>
+                <p>
+                  Old Management System in your company?<br>
+                  Need help to convert either to a new one or develop your own system? You are in the right place!
+                </p>
               </div>
             </a>
           </div>

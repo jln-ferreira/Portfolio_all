@@ -20,6 +20,8 @@
 
     <!-- font awesome -->
     <script src="https://kit.fontawesome.com/6fcee77c99.js" crossorigin="anonymous"></script>
+    <!-- jquery -->
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
 
     </head>
     <body>
@@ -176,7 +178,142 @@
           </div>
         </section>
         <!--================End Feature Area =================-->
-        
+
+        <!--================POP UPS FOR PROJECTS IMAGENS =================-->
+        <!-- TOWNHOUSE FOTOS EXPANDED -->
+        <div id="Townhouse4" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/townhouse/img4.jpg">
+        </div>
+      </div>
+      <div id="Townhouse3" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/townhouse/img3.jpg">
+        </div>
+      </div>
+      <div id="Townhouse2" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/townhouse/img3.jpg">
+        </div>
+      </div>
+      <div id="Townhouse1" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/townhouse/img1.jpg">
+        </div>
+      </div>
+      <div id="Townhouse5" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/townhouse/img5.jpg">
+        </div>
+      </div>
+
+      <!-- HAMILTON FOTOS EXPANDED -->
+      <div id="Hamilton2" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/Hamilton/img2.jpg">
+        </div>
+      </div>
+      <div id="Hamilton1" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/Hamilton/img1.jpg">
+        </div>
+      </div>
+      <div id="Hamilton3" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/Hamilton/img3.jpg">
+        </div>
+      </div>
+      <div id="Hamilton4" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/Hamilton/img4.jpg">
+        </div>
+      </div>
+      <div id="Hamilton5" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/Hamilton/img5.jpg">
+        </div>
+      </div>
+       <div id="Hamilton6" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/Hamilton/img6.jpg">
+        </div>
+      </div>
+       <div id="Hamilton7" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/Hamilton/img7.jpg">
+        </div>
+      </div>
+       <div id="Hamilton8" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/Hamilton/img8.jpg">
+        </div>
+      </div>
+       <div id="Hamilton9" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/Hamilton/img9.jpg">
+        </div>
+      </div>
+       <div id="Hamilton10" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/Hamilton/img10.jpg">
+        </div>
+      </div>
+
+      <!-- HIDHURST FOTOS EXPANDED -->
+      <div id="hidhurst1" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/hidhurst/img1.jpg">
+        </div>
+      </div>
+      <div id="hidhurst2" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/hidhurst/img2.jpg">
+        </div>
+      </div>
+      <div id="hidhurst3" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/hidhurst/img3.jpg">
+        </div>
+      </div>
+      <div id="hidhurst4" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/hidhurst/img4.jpg">
+        </div>
+      </div>
+
+      <!-- RUISSIAM PROJECT FOTOS EXPANDED -->
+      <div id="Russian1" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/projetos/projeto1.jpg">
+        </div>
+      </div>
+      <div id="Russian2" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/projetos/projeto2.jpg">
+        </div>
+      </div>
+      <!--================END OF POP UPS FOR PROJECTS IMAGENS =================-->
         <!--================Projects Area =================-->
         <section class="projects_area p_120" id="projects">
           <div class="container">
@@ -184,36 +321,36 @@
           <h2>Recent Completed Projects</h2>
         </div>
         <div class="projects_inner row">
-          <div class="col-lg-4 col-sm-6 brand web">
+          <div class="col-lg-4 col-sm-6 brand work">
             <div class="projects_item">
               <div id="carouselTownhouse" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/townhouse/img4.jpg" alt="First slide">
+                    <a href="#Townhouse4"><img class="d-block w-100" src="img/townhouse/img4.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">Townhouse</h4>
                   </div>
                   </div>  
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/townhouse/img3.jpg" alt="Second slide">
+                    <a href="#Townhouse3"><img class="d-block w-100" src="img/townhouse/img3.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">Townhouse</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/townhouse/img2.jpg" alt="Third slide">
+                    <a href="#Townhouse2"><img class="d-block w-100" src="img/townhouse/img2.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">Townhouse</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/townhouse/img1.jpg" alt="Third slide">
+                    <a href="#Townhouse1"><img class="d-block w-100" src="img/townhouse/img1.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">Townhouse</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/townhouse/img5.jpg" alt="Third slide">
+                    <a href="#Townhouse5"><img class="d-block w-100" src="img/townhouse/img5.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">Townhouse</h4>
                   </div>
@@ -235,61 +372,61 @@
               <div id="carouselHamilton" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/Hamilton/img2.jpg" alt="First slide">
+                    <a href="#Hamilton2"><img class="d-block w-100" src="img/Hamilton/img2.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">North Vancouver :: Hamilton Heights</h4>
                   </div>
                   </div>  
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/Hamilton/img1.jpg" alt="Second slide">
+                    <a href="#Hamilton1"><img class="d-block w-100" src="img/Hamilton/img1.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">North Vancouver :: Hamilton Heights</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/Hamilton/img3.jpg" alt="Third slide">
+                    <a href="#Hamilton3"><img class="d-block w-100" src="img/Hamilton/img3.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">North Vancouver :: Hamilton Heights</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/Hamilton/img4.jpg" alt="Third slide">
+                    <a href="#Hamilton4"><img class="d-block w-100" src="img/Hamilton/img4.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">North Vancouver :: Hamilton Heights</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/Hamilton/img5.jpg" alt="Third slide">
+                    <a href="#Hamilton5"><img class="d-block w-100" src="img/Hamilton/img5.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">North Vancouver :: Hamilton Heights</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/Hamilton/img6.jpg" alt="Third slide">
+                    <a href="#Hamilton6"><img class="d-block w-100" src="img/Hamilton/img6.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">North Vancouver :: Hamilton Heights</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/Hamilton/img7.jpg" alt="Third slide">
+                    <a href="#Hamilton7"><img class="d-block w-100" src="img/Hamilton/img7.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">North Vancouver :: Hamilton Heights</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/Hamilton/img8.jpg" alt="Third slide">
+                    <a href="#Hamilton8"><img class="d-block w-100" src="img/Hamilton/img8.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">North Vancouver :: Hamilton Heights</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/Hamilton/img9.jpg" alt="Third slide">
+                    <a href="#Hamilton9"><img class="d-block w-100" src="img/Hamilton/img9.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">North Vancouver :: Hamilton Heights</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/Hamilton/img10.jpg" alt="Third slide">
+                    <a href="#Hamilton10"><img class="d-block w-100" src="img/Hamilton/img10.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">North Vancouver :: Hamilton Heights</h4>
                   </div>
@@ -311,25 +448,25 @@
               <div id="carouselhidhurst" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/hidhurst/img1.jpg" alt="First slide">
+                    <a href="#hidhurst1"><img class="d-block w-100" src="img/hidhurst/img1.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
                   </div>
                   </div>  
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/hidhurst/img2.jpg" alt="Second slide">
+                    <a href="#hidhurst2"><img class="d-block w-100" src="img/hidhurst/img2.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/hidhurst/img3.jpg" alt="Second slide">
+                    <a href="#hidhurst3"><img class="d-block w-100" src="img/hidhurst/img3.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
                   </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/hidhurst/img4.jpg" alt="Second slide">
+                    <a href="#hidhurst4"><img class="d-block w-100" src="img/hidhurst/img4.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
                   </div>
@@ -351,13 +488,13 @@
               <div id="carouselRussian" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/projetos/projeto1.jpg" alt="First slide">
+                    <a href="#Russian1"><img class="d-block w-100" src="img/projetos/projeto1.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">Russian Projects</h4>
                   </div>
                   </div>  
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/projetos/projeto2.jpg" alt="Second slide">
+                    <a href="#Russian2"><img class="d-block w-100" src="img/projetos/projeto2.jpg"></a>
                     <div class="projects_text">
                   <h4 style="color: white;" class="subProject">Russian Projects</h4>
                   </div>
@@ -446,12 +583,9 @@
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
         </p>
       </div>
-            
+
         </footer>
         <!--================End Footer Area =================-->
-        
-        
-        
         
         
         <!-- Optional JavaScript -->
