@@ -89,7 +89,6 @@
                         <i class="fas fa-phone-square-alt"></i> <label> (604) 537-2367</label><br>
                         <i class="far fa-envelope"></i> <label>holsonltd@gmail.com</label><br>
                         <a target="_black" href="files/Curriculum.pdf"><i class="fas fa-file-pdf"></i> <label>Curriculum</label></a><br>
-                        <a href="files/CoverLetter.docx"><i class="far fa-comments"></i> <label>Cover Letter</label><br></a>
                     </div>
                   </div>
                 </div>
@@ -138,7 +137,8 @@
               <p>From stage of design:</p>
               <p>Choosing architecture designers company;</p>
               <p>Choosing structural designers company;</p>
-              <p>City hall approval and permits.</p>
+              <p>City hall approval and permits;</p>
+              <p>Demolition Service.</p>
             </div>
 
         <!-- AWARDS -->
@@ -146,7 +146,7 @@
           <div class="col-md-4">
             <div style="text-align: center;" class="thumbnail">
               <a target="_black" href="img/awards/award1.jpg">
-                <img class="w-50" src="img/awards/imgAward1.jpg">
+                <img class="w-50" src="img/awards/imgAward1.png">
                 <div class="caption">
                   <p>Best Single Kitchen</p>
                 </div>
@@ -156,7 +156,7 @@
           <div class="col-md-4">
             <div style="text-align: center;" class="thumbnail">
               <a target="_black" href="img/awards/award2.jpg">
-                <img class="w-30" src="img/awards/imgAward2.jpg">
+                <img class="w-30" height="233px" src="img/awards/imgAward2.png">
                 <div class="caption">
                   <p>Best Custom Home</p>
                 </div>
@@ -164,9 +164,9 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div style="text-align: center;" class="thumbnail">
+            <div style="text-align: center;" class="thumbnail" >
               <a target="_black" href="img/awards/award3.jpg">
-                <img class="w-50" src="img/awards/imgAward3.jpg">
+                <img class="w-50" src="img/awards/imgAward3.png">
                 <div class="caption">
                   <p>Residencial Builder Licence</p>
                 </div>
