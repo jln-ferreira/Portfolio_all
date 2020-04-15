@@ -265,8 +265,8 @@
                 <!-- Progress bar 1 -->
                 <div class="col-lg-4 mb-4">
                   <div class="bg-white rounded-lg shadow p-4">
-                    <h2 class="h5 font-weight-bold text-center mb-4">Kotlin</h2>
-                    <div class="progress mx-auto" data-value='67'>
+                    <h2 class="h5 font-weight-bold text-center mb-4">Laravel</h2>
+                    <div class="progress mx-auto" data-value='82'>
                       <span class="progress-left">
                         <span class="progress-bar border-primary"></span>
                       </span>
@@ -274,12 +274,12 @@
                         <span class="progress-bar border-primary"></span>
                       </span>
                       <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
-                        <div class="h2 font-weight-bold">67<sup class="small">%</sup></div>
+                        <div class="h2 font-weight-bold">82<sup class="small">%</sup></div>
                       </div>
                     </div>
                     <div class="row text-center mt-4">
                       <div class="col-6 border-right">
-                        <div class="h4 font-weight-bold mb-0">63%</div><span class="small text-gray">Last week</span>
+                        <div class="h4 font-weight-bold mb-0">73%</div><span class="small text-gray">Last week</span>
                       </div>
                       <div class="col-6">
                         <div class="h4 font-weight-bold mb-0">0%</div><span class="small text-gray">Last month</span>
@@ -319,8 +319,8 @@
                 <!-- Progress bar 3 -->
                 <div class="col-lg-4 mb-4">
                   <div class="bg-white rounded-lg shadow p-4">
-                    <h2 class="h5 font-weight-bold text-center mb-4">JavaScript</h2>
-                    <div class="progress mx-auto" data-value='83'>
+                    <h2 class="h5 font-weight-bold text-center mb-4">Kotlin</h2>
+                    <div class="progress mx-auto" data-value='65'>
                       <span class="progress-left">
                         <span class="progress-bar border-primary"></span>
                       </span>
@@ -328,15 +328,15 @@
                         <span class="progress-bar border-primary"></span>
                       </span>
                       <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
-                        <div class="h2 font-weight-bold">83<sup class="small">%</sup></div>
+                        <div class="h2 font-weight-bold">65<sup class="small">%</sup></div>
                       </div>
                     </div>
                     <div class="row text-center mt-4">
                       <div class="col-6 border-right">
-                        <div class="h4 font-weight-bold mb-0">80%</div><span class="small text-gray">Last week</span>
+                        <div class="h4 font-weight-bold mb-0">63%</div><span class="small text-gray">Last week</span>
                       </div>
                       <div class="col-6">
-                        <div class="h4 font-weight-bold mb-0">78%</div><span class="small text-gray">Last month</span>
+                        <div class="h4 font-weight-bold mb-0">0%</div><span class="small text-gray">Last month</span>
                       </div>
                     </div>
                     <!-- END PROGRESS 3 -->
@@ -347,22 +347,22 @@
               <div class="row">
                 <div class="col-md-6 animate-box">
                   <div class="progress-wrap ftco-animate">
-                    <h3>C++</h3>
+                    <h3>C#</h3>
                     <div class="progress">
-                      <div class="progress-bar color-1" role="progressbar" aria-valuenow="64"
+                      <div class="progress-bar color-1" role="progressbar" aria-valuenow="72"
                         aria-valuemin="0" aria-valuemax="100" style="width:64%">
-                        <span>64%</span>
+                        <span>72%</span>
                         </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-md-6 animate-box">
                   <div class="progress-wrap ftco-animate">
-                    <h3>C#</h3>
+                    <h3>JavaScript</h3>
                     <div class="progress">
-                      <div class="progress-bar color-2" role="progressbar" aria-valuenow="73"
+                      <div class="progress-bar color-2" role="progressbar" aria-valuenow="80"
                         aria-valuemin="0" aria-valuemax="100" style="width:73%">
-                        <span>73%</span>
+                        <span>80%</span>
                         </div>
                     </div>
                   </div>
@@ -503,73 +503,104 @@
     </section>
     <!-- FINISH SERVICE -->
 
+    <!-- MY PROJECTS -->
     <section class="ftco-section ftco-project" id="projects-section">
-      <div class="container-fluid px-md-0">
+      <div class="container-fluid px-md-5">
         <div class="row no-gutters justify-content-center pb-5">
           <div class="col-md-12 heading-section text-center ftco-animate">
             <h1 class="big big-2">Projects</h1>
-            <h2 class="mb-4">Our Projects</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <h2 class="mb-4">My Projects</h2>
           </div>
         </div>
-        <div class="row no-gutters">
-          <div class="col-md-4">
-            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-1.jpg);">
-              <div class="overlay"></div>
-              <div class="text text-center p-4">
-                <h3><a href="#">Branding &amp; Illustration Design</a></h3>
-                <span>Web Design</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-2.jpg);">
-              <div class="overlay"></div>
-              <div class="text text-center p-4">
-                <h3><a href="#">Branding &amp; Illustration Design</a></h3>
-                <span>Web Design</span>
-              </div>
-            </div>
-          </div>
 
+        <div class="row">
           <div class="col-md-4">
-            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-3.jpg);">
+            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(video/Delivery.gif);">
               <div class="overlay"></div>
               <div class="text text-center p-4">
-                <h3><a href="#">Branding &amp; Illustration Design</a></h3>
-                <span>Web Design</span>
+                <h3><a href="#">Delivery System</a></h3>
+                <span>Software Development</span>
               </div>
             </div>
           </div>
-          <div class="col-md-4">
-            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-4.jpg);">
-              <div class="overlay"></div>
-              <div class="text text-center p-4">
-                <h3><a href="#">Branding &amp; Illustration Design</a></h3>
-                <span>Web Design</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-5.jpg);">
-              <div class="overlay"></div>
-              <div class="text text-center p-4">
-                <h3><a href="#">Branding &amp; Illustration Design</a></h3>
-                <span>Web Design</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-6.jpg);">
-              <div class="overlay"></div>
-              <div class="text text-center p-4">
-                <h3><a href="#">Branding &amp; Illustration Design</a></h3>
-                <span>Web Design</span>
+          <div class="card col-md-7 ftco-animate" style="margin-bottom: 2%; margin-top: 2%;">
+            <div class="card-body">
+              <h3>Delivery System</h3>
+              <div>
+                <p><b>Web Application</b> developed from scratch with the idea of person who are unavailable, for any reason, cannot do your own household groceries;</p>
+                <p>Any person as volunteers who wants to help families get their needs delivered can access and help the comunity.</p>
+                <p>Built with:<b> Laravel, PHP, MySQL, Javascript, Ajax, Json, JQuery, Bootstrap and CSS</b></p>
+                <a href="https://github.com/jln-ferreira/Alpha_Delivery">
+                  <small>https://github.com/jln-ferreira/Alpha_Delivery</small>
+                </a>
               </div>
             </div>
           </div>
         </div>
-      </div>
+
+        <div class="row">
+          <div id="project_Change1" class="card col-md-7 ftco-animate" style="margin-bottom: 2%; margin-top: 2%;">
+            <div class="card-body">
+              <h3>Management System</h3>
+              <div>
+                <p><b>Enterprise application software</b> created from scratch build to manage all numbers and information of their customers of a Brazilian Senior House.</p>
+                <p>Friendly and easy interface to allow any type of user deal with their daily job tasks CRUD with a well structured database MySQL;</p>
+                <p>Built with:<b> PHP, MySQL, CSS, Bootstrap, JavaScript, JSON, Ajax and JQuery</b></p>
+                <a href="https://github.com/jln-ferreira/SmallCompanyPHP">
+                  <small>https://github.com/jln-ferreira/SmallCompanyPHP</small>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(video/quinta.gif);">
+              <div class="overlay"></div>
+              <div class="text text-center p-4">
+                <h3><a href="#">Management System</a></h3>
+                <span>Software Development</span>
+              </div>
+            </div>
+          </div>
+          <div id="project_Change2" class="card col-md-7 ftco-animate" style="margin-bottom: 2%; margin-top: 2%;">
+            <div class="card-body">
+              <h3>Management System</h3>
+              <div>
+                <p><b>Enterprise application software</b> created from scratch build to manage all numbers and information of their customers of a Brazilian Senior House.</p>
+                <p>Friendly and easy interface to allow any type of user deal with their daily job tasks CRUD with a well structured database MySQL;</p>
+                <p>Built with:<b> PHP, MySQL, CSS, Bootstrap, JavaScript, JSON, Ajax and JQuery</b></p>
+                <a href="https://github.com/jln-ferreira/SmallCompanyPHP">
+                  <small>https://github.com/jln-ferreira/SmallCompanyPHP</small>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4">
+            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(video/game.gif);">
+              <div class="overlay"></div>
+              <div class="text text-center p-4">
+                <h3><a href="#">Warrior Game</a></h3>
+                <span>Game development</span>
+              </div>
+            </div>
+          </div>
+          <div class="card col-md-7 ftco-animate" style="margin-bottom: 2%; margin-top: 2%;">
+            <div class="card-body">
+              <h3>Warrior Game</h3>
+              <div>
+                <p>Choose your hero, between Warrior, Archer or Mage. They have different types of attributes (HP, ATK, DEF, AGI and EXP);</p>
+                <p>The user character must kill all the Monsters by reducing their health to zero. Possible to use items and special attacks.</p>
+                <p>Built with:<b> CSS, Bootstrap, JavaScript, JQuery</b></p>
+                <a href="https://github.com/jln-ferreira/Game_Fight">
+                  <small>https://github.com/jln-ferreira/Game_Fight</small>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
     </section>
 
 
@@ -580,7 +611,6 @@
           <div class="col-md-7 heading-section text-center ftco-animate">
             <h1 class="big big-2">Contact</h1>
             <h2 class="mb-4">Contact Me</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
           </div>
         </div>
 
@@ -614,64 +644,15 @@
     </section>
     
 
-    <footer class="ftco-footer ftco-section">
+    <footer class="ftco-footer">
       <div class="container">
-        <div class="row mb-5">
-          <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">About</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="ftco-footer-widget mb-4 ml-md-4">
-              <h2 class="ftco-heading-2">Links</h2>
-              <ul class="list-unstyled">
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Services</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Projects</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md">
-             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Services</h2>
-              <ul class="list-unstyled">
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Web Design</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Web Development</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Business Strategy</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Data Analysis</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Graphic Design</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Have a Questions?</h2>
-              <div class="block-23 mb-3">
-                <ul>
-                  <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-                  <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12 text-center">
+        <div class="row" style="justify-content: center;">
+          
+            <ul class="ftco-footer-social">
+              <li class="ftco-animate"><a href="https://www.linkedin.com/in/jos%C3%A9-lucas-neves-ferreira-57055040/"><span class="icon-linkedin"></span></a></li>
+              <li class="ftco-animate"><a href="https://www.instagram.com/jlnferreira/"><span class="icon-instagram"></span></a></li>
+            </ul>
 
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-          </div>
         </div>
       </div>
     </footer>
