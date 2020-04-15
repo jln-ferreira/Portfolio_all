@@ -109,7 +109,7 @@
     </section>
 
     <!-- all PROGRAMS -->
-    <section class="ftco-section ftco-partner">
+    <section id="partnerSection" class="ftco-section ftco-partner">
       <div class="container">
         <div class="row">
           <div class="col-sm ftco-animate">
@@ -121,11 +121,11 @@
           <div class="col-sm ftco-animate">
             <a class="partner"><img src="images/partner-3.png" class="img-fluid"></a>
           </div>
-          <div class="col-sm ftco-animate">
-            <a class="partner"><img style="width: 120px;" src="images/partner-4.jpg" class="img-fluid"></a>
+          <div class="col-sm ftco-animate partnerChangeDiv">
+            <a><img class="partnerChangeImg" src="images/partner-4.jpg"></a>
           </div>
-          <div class="col-sm ftco-animate">
-            <a class="partner"><img style="width: 110px;" src="images/partner-5.png" class="img-fluid"></a>
+          <div class="col-sm ftco-animate partnerChangeDiv">
+            <a><img class="partnerChangeImg" src="images/partner-5.png"></a>
           </div>
         </div>
       </div>
@@ -217,12 +217,10 @@
                   <h2>Software Developer</h2>
                   <span class="position">Emdev Co.</span>
                   <p>
-                    Enterprise application software created from scratch, built to run a Brazilian senior house;<br>
-                    Each member has his own access, friendly and easy interface to deal daily tasks;<br>
-                    Team leader, delivering tasks to others developers.<br>
-                    <b>HTML, CSS, Bootstrap, JavaScript, JSON, Ajax, JQuery, PHP, MySQL.</b>
+                    Designing and developing <b>full stack application</b> across multiple plataforms, using modern industry-adopted languages and frameworks;<br> 
+                    Worked with <b>Laravel/PHP</b> to buind a Delivery Application to reach healthy people willing to help who is in quarantine;<br> 
+                    <b>Developed a new ERP</b> for a senior house from scratch. Back-end full dedicated to turn this application fast, usefull and no bugs.
                   </p>
-                  <small>https://github.com/jln-ferreira/SmallCompanyPHP</small>
                 </div>
               </div>
               <div class="resume-wrap d-flex ftco-animate">
@@ -527,9 +525,9 @@
             <div class="card-body">
               <h3>Delivery System</h3>
               <div>
-                <p><b>Web Application</b> developed from scratch with the idea of person who are unavailable, for any reason, cannot do your own household groceries;</p>
+                <p><b>Web application of Deliveries</b>, developed from scratch with the idea of reaching healthy people willing to help who are either unavailable or cannot do your own household groceries for any reason</p>
                 <p>Any person as volunteers who wants to help families get their needs delivered can access and help the comunity.</p>
-                <p>Built with:<b> Laravel, PHP, MySQL, Javascript, Ajax, Json, JQuery, Bootstrap and CSS</b></p>
+                <p>Built with:<b> Laravel, PHP, MySQL, JavaScript, Ajax, Json, JQuery, Bootstrap and CSS</b></p>
                 <a href="https://github.com/jln-ferreira/Alpha_Delivery">
                   <small>https://github.com/jln-ferreira/Alpha_Delivery</small>
                 </a>
@@ -616,21 +614,21 @@
 
         <div class="row no-gutters block-9">
           <div class="col-md-6 order-md-last d-flex">
-            <form action="#" class="bg-light p-4 p-md-5 contact-form">
+            <form method="POST" action="mail.php" class="bg-light p-4 p-md-5 contact-form">
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Name">
+                <input name="name" type="text" class="form-control" placeholder="Your Name">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Email">
+                <input name="email" type="text" class="form-control" placeholder="Your Email">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Subject">
+                <input name="subject" type="text" class="form-control" placeholder="Subject">
               </div>
               <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+                <textarea name="message" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
               </div>
               <div class="form-group">
-                <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+                <input name="formMail" type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
               </div>
             </form>
           
@@ -649,8 +647,8 @@
         <div class="row" style="justify-content: center;">
           
             <ul class="ftco-footer-social">
-              <li class="ftco-animate"><a href="https://www.linkedin.com/in/jos%C3%A9-lucas-neves-ferreira-57055040/"><span class="icon-linkedin"></span></a></li>
-              <li class="ftco-animate"><a href="https://www.instagram.com/jlnferreira/"><span class="icon-instagram"></span></a></li>
+              <li class="ftco-animate"><a href="https://www.linkedin.com/in/jos%C3%A9-lucas-neves-ferreira-57055040/" target="_blank"><span class="icon-linkedin"></span></a></li>
+              <li class="ftco-animate"><a href="https://www.instagram.com/jlnferreira/"><span class="icon-instagram" target="_blank"></span></a></li>
             </ul>
 
         </div>

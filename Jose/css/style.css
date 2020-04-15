@@ -13,7 +13,9 @@
   width: 70px;
 }
 
-
+.partnerChangeImg{
+  width: 120px;
+}
 
 
 :root {
@@ -3532,7 +3534,14 @@ input[type="button"].btn-block {
   .navbar-expand-sm > .container,
   .navbar-expand-sm > .container-fluid {
     padding-right: 0;
-    padding-left: 0; } }
+    padding-left: 0; } 
+  
+  .partnerChangeDiv{
+    text-align: center;
+  }
+  .partnerChangeImg{
+    width: 46%;
+  }}
 
 @media (min-width: 576px) {
   .navbar-expand-sm {
@@ -8755,10 +8764,6 @@ h1, h2, h3, h4, h5,
   .ftco-partner .partner {
     display: block;
     padding: 0 20px; }
-    @media (max-width: 991.98px) {
-      .ftco-partner .partner {
-        padding: 0 70px;
-        margin-bottom: 40px; } }
 
 .services-1 {
   margin-bottom: 40px;
@@ -9394,6 +9399,9 @@ textarea.form-control {
   -ms-border-radius: 4px;
   border-radius: 4px; }
   @media (max-width: 991.98px) {
+    #partnerSection{
+      display: none;
+    }
     .contact-section .box {
       margin-bottom: 30px; } }
   .contact-section .box .icon {
@@ -9702,3 +9710,8 @@ textarea.form-control {
     display: flex;
   }
 }
+
+
+
+
+
