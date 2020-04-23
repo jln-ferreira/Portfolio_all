@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="icon" href="img/favicon.png" type="image/png">
-        <title>Sergay Postfolio</title>
+        <title>COP Contruction Portfolio</title>
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="vendors/linericon/style.css">
@@ -31,6 +31,8 @@
             <div class="main_menu" id="mainNav">
               <nav class="navbar navbar-expand-lg navbar-light">
           <div class="container box_1620">
+            <h2 id="tittleGop" style="color:#007bff; padding-top: 10px; font-size: 35px; ">GOP Construction LTD</h2>
+
             <!-- Brand and toggle get grouped for better mobile display -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="icon-bar"></span>
@@ -63,12 +65,14 @@
                 <img src="img/sergay-profile-png.png" alt="">
               </div>
             </div>
-            <div class="col-lg-6">
+            <div style="padding-top: 10%;" class="col-lg-6">
               <div class="banner_content" id="home">
                 <h5>This is me</h5>
                 <h2>S. Holson</h2>
                 <p>Highly skilled Construction Site Supervisor, General Contractor and Project Manager with over 25 years of experience.</p>
               </div>
+            <img style="width: 84%!important;" src="img/imgFront.jpg">
+
             </div>
           </div>
         </div>
@@ -88,7 +92,7 @@
                     <div class="col-md-6">
                         <i class="fas fa-phone-square-alt"></i> <label> (604) 537-2367</label><br>
                         <i class="far fa-envelope"></i> <label>holsonltd@gmail.com</label><br>
-                        <a target="_black" href="files/Curriculum.pdf"><i class="fas fa-file-pdf"></i> <label>Curriculum</label></a><br>
+                        <a target="_black" href="files/Curriculum.pdf"><i class="fas fa-file-pdf"></i> <label>curriculum vitae</label></a><br>
                     </div>
                   </div>
                 </div>
@@ -129,56 +133,6 @@
         </section>
         <!--================End Welcome Area =================-->
         
-        <!--================Feature Area =================-->
-        <section class="feature_area p_120" id="feature">
-          <div class="container">
-            <div class="main_title" >
-              <h2>offerings to my clients</h2>
-              <p>From stage of design:</p>
-              <p>Choosing architecture designers company;</p>
-              <p>Choosing structural designers company;</p>
-              <p>City hall approval and permits;</p>
-              <p>Demolition Service.</p>
-            </div>
-
-        <!-- AWARDS -->
-            <div class="row">
-          <div class="col-md-4">
-            <div style="text-align: center;" class="thumbnail">
-              <a target="_black" href="img/awards/award1.jpg">
-                <img class="w-50" src="img/awards/imgAward1.png">
-                <div class="caption">
-                  <p>Best Single Kitchen</p>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div style="text-align: center;" class="thumbnail">
-              <a target="_black" href="img/awards/award2.jpg">
-                <img class="w-30" height="233px" src="img/awards/imgAward2.png">
-                <div class="caption">
-                  <p>Best Custom Home</p>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div style="text-align: center;" class="thumbnail" >
-              <a target="_black" href="img/awards/award3.jpg">
-                <img class="w-50" src="img/awards/imgAward3.png">
-                <div class="caption">
-                  <p>Residencial Builder Licence</p>
-                </div>
-              </a>
-            </div>
-          </div>
-        </div>
-                    
-          </div>
-        </section>
-        <!--================End Feature Area =================-->
-
         <!--================POP UPS FOR PROJECTS IMAGENS =================-->
         <!-- TOWNHOUSE FOTOS EXPANDED -->
         <div id="Townhouse4" class="overlay" style="z-index: 9999;">
@@ -274,6 +228,56 @@
         </div>
       </div>
 
+            <!-- WestKingsRoad FOTOS EXPANDED -->
+      <div id="WestKingsRoad1" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/WestKingsRoad/img1.jpg">
+        </div>
+      </div>
+      <div id="WestKingsRoad2" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/WestKingsRoad/img2.jpg">
+        </div>
+      </div>
+      <div id="WestKingsRoad3" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/WestKingsRoad/img3.jpg">
+        </div>
+      </div>
+      <div id="WestKingsRoad4" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/WestKingsRoad/img4.jpg">
+        </div>
+      </div>
+      <div id="WestKingsRoad5" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/WestKingsRoad/img5.jpg">
+        </div>
+      </div>
+       <div id="WestKingsRoad6" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/WestKingsRoad/img6.jpg">
+        </div>
+      </div>
+       <div id="WestKingsRoad7" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/WestKingsRoad/img7.jpg">
+        </div>
+      </div>
+       <div id="WestKingsRoad8" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/WestKingsRoad/img8.jpg">
+        </div>
+      </div>
+
       <!-- HIDHURST FOTOS EXPANDED -->
       <div id="hidhurst1" class="overlay" style="z-index: 9999;">
         <div class="popup">
@@ -297,6 +301,80 @@
         <div class="popup">
           <a class="close" href="#projects">&times;</a>
             <img style="width: 90%;" src="img/hidhurst/img4.jpg">
+        </div>
+      </div>
+      <div id="hidhurst5" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/hidhurst/img5.JPG">
+        </div>
+      </div>
+      <div id="hidhurst6" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/hidhurst/img6.JPG">
+        </div>
+      </div>
+      <div id="hidhurst7" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/hidhurst/img7.JPG">
+        </div>
+      </div>
+      <div id="hidhurst8" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/hidhurst/img8.JPG">
+        </div>
+      </div>
+      <div id="hidhurst9" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/hidhurst/img9.JPG">
+        </div>
+      </div>
+      <div id="hidhurst10" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/hidhurst/img10.JPG">
+        </div>
+      </div>
+
+      <!-- stephensWay FOTOS EXPANDED -->
+      <div id="stephensWay1" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/stephensWay/img1.jpg">
+        </div>
+      </div>
+      <div id="stephensWay2" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/stephensWay/img2.jpg">
+        </div>
+      </div>
+      <div id="stephensWay3" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/stephensWay/img3.jpg">
+        </div>
+      </div>
+      <div id="stephensWay4" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/stephensWay/img4.jpg">
+        </div>
+      </div>
+      <div id="stephensWay5" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/stephensWay/img5.jpg">
+        </div>
+      </div>
+      <div id="stephensWay6" class="overlay" style="z-index: 9999;">
+        <div class="popup">
+          <a class="close" href="#projects">&times;</a>
+            <img style="width: 90%;" src="img/stephensWay/img6.jpg">
         </div>
       </div>
 
@@ -443,6 +521,71 @@
               </div>
             </div>
           </div>
+                    <div class="col-lg-4 col-sm-6 work">
+            <div class="projects_item">
+              <div id="carouselWestKingsRoad" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <a href="#WestKingsRoad1"><img class="d-block w-100" src="img/WestKingsRoad/img1.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">440 West Kings Road</h4>
+                  </div>
+                  </div>  
+                  <div class="carousel-item">
+                    <a href="#WestKingsRoad2"><img class="d-block w-100" src="img/WestKingsRoad/img2.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">440 West Kings Road</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#WestKingsRoad3"><img class="d-block w-100" src="img/WestKingsRoad/img3.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">440 West Kings Road</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#WestKingsRoad4"><img class="d-block w-100" src="img/WestKingsRoad/img4.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">440 West Kings Road</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#WestKingsRoad5"><img class="d-block w-100" src="img/WestKingsRoad/img5.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">440 West Kings Road</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#WestKingsRoad6"><img class="d-block w-100" src="img/WestKingsRoad/img6.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">440 West Kings Road</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#WestKingsRoad7"><img class="d-block w-100" src="img/WestKingsRoad/img7.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">440 West Kings Road</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#WestKingsRoad8"><img class="d-block w-100" src="img/WestKingsRoad/img8.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">440 West Kings Road</h4>
+                  </div>
+                  </div>
+                
+                </div>
+                <a class="carousel-control-prev" href="#carouselWestKingsRoad" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselWestKingsRoad" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+            </div>
+          </div>
           <div class="col-lg-4 col-sm-6 work">
             <div class="projects_item">
               <div id="carouselhidhurst" class="carousel slide" data-ride="carousel">
@@ -471,6 +614,42 @@
                   <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
                   </div>
                   </div>
+                  <div class="carousel-item">
+                    <a href="#hidhurst5"><img class="d-block w-100" src="img/hidhurst/img5.JPG"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#hidhurst6"><img class="d-block w-100" src="img/hidhurst/img6.JPG"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#hidhurst7"><img class="d-block w-100" src="img/hidhurst/img7.JPG"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#hidhurst8"><img class="d-block w-100" src="img/hidhurst/img8.JPG"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#hidhurst9"><img class="d-block w-100" src="img/hidhurst/img9.JPG"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#hidhurst10"><img class="d-block w-100" src="img/hidhurst/img10.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">420 Hidhurst pl.</h4>
+                  </div>
+                  </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselhidhurst" role="button" data-slide="prev">
                   <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -485,18 +664,70 @@
           </div>
           <div class="col-lg-4 col-sm-6 work">
             <div class="projects_item">
+              <div id="carousestephensWay" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <a href="#stephensWay1"><img class="d-block w-100" src="img/stephensWay/img1.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">Stephens Way</h4>
+                  </div>
+                  </div>  
+                  <div class="carousel-item">
+                    <a href="#stephensWay2"><img class="d-block w-100" src="img/stephensWay/img2.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">Stephens Way</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#stephensWay3"><img class="d-block w-100" src="img/stephensWay/img3.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">Stephens Way</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#stephensWay4"><img class="d-block w-100" src="img/stephensWay/img4.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">Stephens Way</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#stephensWay5"><img class="d-block w-100" src="img/stephensWay/img5.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">Stephens Way</h4>
+                  </div>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="#stephensWay6"><img class="d-block w-100" src="img/stephensWay/img6.jpg"></a>
+                    <div class="projects_text">
+                  <h4 style="color: white;" class="subProject">Stephens Way</h4>
+                  </div>
+                  </div>
+                </div>
+                <a class="carousel-control-prev" href="#carousestephensWay" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carousestephensWay" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 work">
+            <div class="projects_item">
               <div id="carouselRussian" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
                     <a href="#Russian1"><img class="d-block w-100" src="img/projetos/projeto1.jpg"></a>
                     <div class="projects_text">
-                  <h4 style="color: white;" class="subProject">Russian Projects</h4>
+                  <h4 style="color: white;" class="subProject">Foreign Projects</h4>
                   </div>
                   </div>  
                   <div class="carousel-item">
                     <a href="#Russian2"><img class="d-block w-100" src="img/projetos/projeto2.jpg"></a>
                     <div class="projects_text">
-                  <h4 style="color: white;" class="subProject">Russian Projects</h4>
+                  <h4 style="color: white;" class="subProject">Foreign Projects</h4>
                   </div>
                   </div>
                 </div>
@@ -515,6 +746,69 @@
           </div>
         </section>
         <!--================End Projects Area =================-->  
+        
+        <!--================Feature Area =================-->
+        <section class="feature_area p_120" id="feature">
+          <div class="container">
+            <div class="main_title" >
+              <h2>offerings to my clients</h2>
+              <p>Demolition Service.</p>
+              <p>From stage of design:</p>
+              <p>Choosing architecture designers company;</p>
+              <p>Choosing structural designers company.</p>
+              <p>City hall approval and permits.</p>
+              <p>Full management of project and general contractor services.</p>
+              
+            </div>
+
+        <!-- AWARDS -->
+            <div class="row">
+          <div class="col-md-3">
+            <div style="text-align: center;" class="thumbnail">
+              <a target="_black" href="img/awards/award1.jpg">
+                <img class="w-50" src="img/awards/imgAward1.png">
+                <div class="caption">
+                  <p>Best Single Kitchen</p>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div style="text-align: center;" class="thumbnail">
+              <a target="_black" href="img/awards/award2.jpg">
+                <img class="w-30" height="233px" src="img/awards/imgAward2.png">
+                <div class="caption">
+                  <p>Best Custom Home</p>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div style="text-align: center;" class="thumbnail">
+              <a target="_black" href="https://issuu.com/vancouverboulevard/docs/2018_04_blvdenglish_web">
+                <img class="w-30" height="233px" src="img/awards/imgAward4.jpg">
+                <div class="caption">
+                  <p>Vancouver Boulevard/English April 2018 - Page 26-27</p>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div style="text-align: center;" class="thumbnail" >
+              <a target="_black" href="img/awards/award3.jpg">
+                <img class="w-50" src="img/awards/imgAward3.png">
+                <div class="caption">
+                  <p>Residencial Builder Licence</p>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+                    
+          </div>
+        </section>
+        <!--================End Feature Area =================-->
+
         <!--================Footer Area =================-->
         <footer class="footer_area p_120">
 
@@ -531,7 +825,7 @@
                   <div class="wow bounceInDown" data-wow-delay="0.4s" >
                     <h2>Email or phone are welcome</h2>
                   </div>
-                  <p class="wow lightSpeedIn" data-wow-delay="0.3s">Gentleman, introduce your self and get in touch with me privately</p>
+                  <p class="wow lightSpeedIn" data-wow-delay="0.3s">Introduce yourself and get in touch with me privately</p>
                 </div>
 
               </div>
@@ -568,7 +862,7 @@
                 </form>
               </div>
               <div class="text-center">
-                <p class="lead"><i class="fa fa-phone"></i> Call me +1 (604) 537-2367</p>
+                <p class="lead"><i class="fa fa-phone"></i> Call me +1 (604) 537-2367  <b>Sergey</b></p>
               </div>
             </div>
 

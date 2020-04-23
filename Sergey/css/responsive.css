@@ -1,3 +1,8 @@
+@media (min-width: 1212px){
+	    #tittleGop{
+	    	margin-left: 241px;
+	    }
+}
 @media (max-width:1619px){
 	/* Main Menu Area css
 	============================================================================================ */
@@ -276,7 +281,7 @@
 		margin-top: 0px;
 	}
 	.home_banner_area .banner_inner .banner_content img{
-		display: none;
+		display: width: 100% !important;
 	}
 	.home_banner_area .banner_inner .banner_content h5 {
 		margin-top: 0px;
@@ -327,8 +332,8 @@
 		padding-bottom: 70px;
 	}
 	.home_banner_area .banner_inner .home_left_img {
-		display: none;
-	}
+		width: 100%;
+	} 
 	.home_banner_area .banner_inner .banner_content {
 		padding-top: 0px;
 	}

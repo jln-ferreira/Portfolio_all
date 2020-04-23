@@ -21,6 +21,14 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
+
+    <!-- FAVICON -->
+    <link rel="apple-touch-icon" sizes="180x180" href="images/fav/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/fav/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/fav/favicon-16x16.png">
+    <link rel="manifest" href="images/fav/site.webmanifest">
+    <!-- ----- -->
+
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
     
@@ -77,7 +85,7 @@
           <div class="col-md-6 col-lg-6 d-flex">
             <div class="img-about img d-flex align-items-stretch">
               <div class="overlay"></div>
-              <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/aboutImg.jpg);">
+              <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/Jl-profile.jpg);">
               </div>
             </div>
           </div>
@@ -166,7 +174,7 @@
                 <div class="text pl-3">
                   <span class="date">2019-2020</span>
                   <h2>Public Speech - Medium auditorium (100 people)</h2>
-                  <span class="position">Cambridge University</span>
+                  <span class="position">Toastmasters</span>
                   <p>Active participant of Toastmasters, public speaking development;<br>
                     Club Number: 06949640. Pathway choose: <b>Leadership</b></p>
                 </div>
@@ -229,7 +237,7 @@
                 </div>
                 <div class="text pl-3">
                   <span class="date">2017-2018</span>
-                  <h2>Productivity Management</h2>
+                  <h2>Senior Suppy Chain Analyst</h2>
                   <span class="position">Walmart Brazil</span>
                   <p>
                   Developing fully-managed Data Warehouse KPI`s using Queries within Business Tools to increase the decision accuracy of the Supply Chain area. Project results:<br>
@@ -246,7 +254,7 @@
                 </div>
                 <div class="text pl-3">
                   <span class="date">2015-2017</span>
-                  <h2>Productivity Manager</h2>
+                  <h2>Productivity Management Analyst</h2>
                   <span class="position">DASA</span>
                   <p>
                   Responsible for development, implementation and maintenance of the SAP system;<br>
@@ -523,7 +531,7 @@
           </div>
           <div class="card col-md-7 ftco-animate" style="margin-bottom: 2%; margin-top: 2%;">
             <div class="card-body">
-              <h3>Delivery System</h3>
+              <h3>Grouse Delivery</h3>
               <div>
                 <p><b>Web application of Deliveries</b>, developed from scratch with the idea of reaching healthy people willing to help who are either unavailable or cannot do your own household groceries for any reason</p>
                 <p>Any person as volunteers who wants to help families get their needs delivered can access and help the comunity.</p>
@@ -539,7 +547,7 @@
         <div class="row">
           <div id="project_Change1" class="card col-md-7 ftco-animate" style="margin-bottom: 2%; margin-top: 2%;">
             <div class="card-body">
-              <h3>Management System</h3>
+              <h3>Quinta Management System</h3>
               <div>
                 <p><b>Enterprise application software</b> created from scratch build to manage all numbers and information of their customers of a Brazilian Senior House.</p>
                 <p>Friendly and easy interface to allow any type of user deal with their daily job tasks CRUD with a well structured database MySQL;</p>
@@ -561,7 +569,7 @@
           </div>
           <div id="project_Change2" class="card col-md-7 ftco-animate" style="margin-bottom: 2%; margin-top: 2%;">
             <div class="card-body">
-              <h3>Management System</h3>
+              <h3>Quinta sManagement System</h3>
               <div>
                 <p><b>Enterprise application software</b> created from scratch build to manage all numbers and information of their customers of a Brazilian Senior House.</p>
                 <p>Friendly and easy interface to allow any type of user deal with their daily job tasks CRUD with a well structured database MySQL;</p>
@@ -635,7 +643,7 @@
           </div>
 
           <div class="col-md-6 d-flex">
-            <div class="img" style="background-image: url(images/about.jpg);"></div>
+            <div class="img" style="background-image: url(images/Jl-front.jpg);"></div>
           </div>
         </div>
       </div>
@@ -649,6 +657,7 @@
             <ul class="ftco-footer-social">
               <li class="ftco-animate"><a href="https://www.linkedin.com/in/jos%C3%A9-lucas-neves-ferreira-57055040/" target="_blank"><span class="icon-linkedin"></span></a></li>
               <li class="ftco-animate"><a href="https://www.instagram.com/jlnferreira/"><span class="icon-instagram" target="_blank"></span></a></li>
+              <li class="ftco-animate"><a href="https://github.com/jln-ferreira"><span class="icon-github" target="_blank"></span></a></li>
             </ul>
 
         </div>

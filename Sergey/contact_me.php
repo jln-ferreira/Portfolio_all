@@ -3,7 +3,7 @@
 <?php
 if($_POST)
 {
-	$to_Email   	= "jln-ferreira@hotmail.com"; //Replace with recipient email address
+	$to_Email   	= "holsonltd@gmail.com"; //Replace with recipient email address
 	
 	
 	

@@ -1,10 +1,10 @@
 <?php
 if($_POST)
 {
-    $to_Email       = "jln-ferreira@hotmail.com"; // Replace with recipient email address
+    $to_Email       = "holsonltd@gmail.com"; // Replace with recipient email address
     $host           = "smtp.live.com"; // Your SMTP server. For example, smtp.mail.yahoo.com
-    $username       = "jln-ferreira@hotmail.com"; //For example, your.email@yahoo.com
-    $password       = "Walmart*2017"; // Your password
+    $username       = "emdev.digital@hotmail.com"; //For example, your.email@yahoo.com
+    $password       = "Goiaba1234!"; // Your password
     $SMTPSecure     = "tls"; // For example, ssl
     $port           = 587; // For example, 465
     
